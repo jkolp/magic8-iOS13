@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Magic8
-//
-//  Created by Projects on 7/16/20.
-//  Copyright © 2020 Jen. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
